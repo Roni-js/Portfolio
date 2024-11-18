@@ -966,11 +966,14 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: aliceblue;
   background-color: chocolate;
   border-radius: 8px;
-  padding: 12px;
-  padding-right: 15px;
+  padding: 51px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 320px;
+  padding-left: 320px;
   position: absolute;
-  margin-top: 3265px;
-  margin-left: 422px;
+  margin-top: 3259px;
+  margin-left: -190px;
 }
 #submit:hover{
   background-color: rgb(236, 85, 30)
